@@ -1,0 +1,40 @@
+
+.animate{
+     -webkit-transition: all .3s;
+     transition: all .3s;
+}
+.m-pic-cover{
+     position: absolute;
+     top: 0;
+     left: 0;
+     bottom: 0;
+     right: 0;
+     background-color: rgba(0,0,0,.5);
+}
+.m-pic-content{
+     width: 1000px;
+     height: 560px;
+     overflow: hidden;
+     text-overflow: ellipsis;
+}
+#j-pic{
+      position: relative;
+}
+.source{
+      background: #F0AD4E;
+      position: absolute;
+      z-index: 5;
+      top: 0;
+      left: 0;
+}
+.dom{
+      width: 150px;
+      height:50px;
+      line-height: 50px;
+      position: absolute;
+      left: 50px;
+      top: 50px;
+      background: red;
+      color: #FFFFFF;
+}
+

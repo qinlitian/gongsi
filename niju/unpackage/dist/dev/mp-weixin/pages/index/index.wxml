@@ -1,0 +1,1 @@
+<view class="content"><view class="m-pic-content m-pic" style="width:1000px;height:560px;" id="j-pic"><image class="m-pic-content m-pic _img" style="width:1000px;height:560px;" src="{{src?src:'6'}}"></image></view></view>
